@@ -1,6 +1,4 @@
 /**
- * E / 18 / 173
- * Kasthuripitiya K.A.I.M.
  * Lab 06 - Event Handling and MVC Apporach
  */
 

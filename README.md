@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe Using MVC Approach Java
 
 ##### Objective:
 The major objective of this laboratory class are to learn following topics

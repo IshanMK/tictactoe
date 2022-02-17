@@ -1,5 +1,6 @@
 /**
  * Lab 06 - Event Handling and MVC Apporach
+ * Testing 01
  */
 
 public class Main {
